@@ -14,13 +14,13 @@ The webpage is designed to be responsive, with specific styles for both mobile (
 ## Screenshots
 
 ### Desktop Preview
-![Desktop Preview](screenshots/desktop-design.jpg)
+![Desktop Preview](desktop-design.jpg)
 
 ### Mobile Preview
-![Mobile Preview](screenshots/mobile-design.jpg)
+![Mobile Preview](mobile-design.jpg)
 
 ### Active State
-![Active State](screenshots/active-state.jpg)
+![Active State](active-states.jpg)
 
 ## Getting Started
 
